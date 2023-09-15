@@ -15,9 +15,6 @@ In addition, I am also proficient in developing web applications and managing da
 - Frontend development with React and Angular
 - Database management including sql/nosql/postgres/phpmyadmin
 
-I enjoy working with cutting-edge technologies, architecting scalable solutions, and helping organizations leverage the power of the cloud to achieve their goals. My experience in both infrastructure and web application development allows me to create comprehensive solutions that bridge the gap between cloud technology and software development.
-
-
 <!-- Interests -->
 ## 👀 I’m interested in...
 - Cloud Infrastructure (AWS, Azure, GCP)
