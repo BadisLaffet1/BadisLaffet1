@@ -24,7 +24,7 @@ In addition, I am also proficient in developing web applications and managing da
 - Automation and Scripting
 <!-- Skills -->
 ## ߷ Languages and tools
-[![My Skills](https://skillicons.dev/icons?i=python,docker,git,ansible,kubernetes,aws,azure,jenkins,terraform,django,nextjs,nodejs,react,angular,c,cs,cpp,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,docker,git,ansible,kubernetes,aws,azure,jenkins,django,nextjs,nodejs,react,angular,c,cs,cpp,js,html,css)](https://skillicons.dev)
 <!-- Learning Journey -->
 ## 🌱 I’m currently learning more about cloud computing technologies
 
