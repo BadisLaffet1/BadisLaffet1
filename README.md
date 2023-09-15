@@ -7,7 +7,6 @@ I'm a cloud computing enthusiast with a good background in Kubernetes, Ansible, 
 - Leveraging software as a service (SaaS)
 - Exploring platform as a service (PaaS)
 - Implementing CI/CD pipelines
-- Containerization with Docker
 - Virtualization technologies
 
 In addition, I am also proficient in developing web applications and managing databases. My technical skills span across various technologies and frameworks, including:
@@ -34,7 +33,6 @@ I enjoy working with cutting-edge technologies, architecting scalable solutions,
 <!-- Collaboration -->
 ## 💞️ I’m looking to collaborate on...
 - Open-source projects related to cloud computing and DevOps.
-- Collaborative initiatives to promote cloud best practices and knowledge sharing.
 - Web developing using both client and server frameworks
 
 <!-- Contact Information -->
@@ -42,8 +40,4 @@ I enjoy working with cutting-edge technologies, architecting scalable solutions,
 - [Your LinkedIn Profile](https://www.linkedin.com/in/badis-laffet-239130283/)
 - Email: badis.laffet1@gmail.com
 
-<!-- GitHub Stats -->
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=BadisLaffet1&show_icons=true&theme=dark)
 
-<!-- Contribution Graph -->
-![Your GitHub Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=BadisLaffet1&theme=dark)
