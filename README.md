@@ -32,6 +32,8 @@ In addition, I am also proficient in developing web applications and managing da
 - Open-source projects related to cloud computing and DevOps.
 - Web developing using both client and server frameworks
 
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- Contact Information -->
 ## 📫 How to reach me...
 - [Your LinkedIn Profile](https://www.linkedin.com/in/badis-laffet-239130283/)
