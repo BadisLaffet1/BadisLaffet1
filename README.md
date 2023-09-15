@@ -22,7 +22,9 @@ In addition, I am also proficient in developing web applications and managing da
 - Serverless Computing
 - Containers and Kubernetes
 - Automation and Scripting
+<!-- Skills -->
 
+[![My Skills](https://skills.thijs.gg/icons?i=python,django,ansible,kubernetes,aws,jenkins,js,html,css,wasm)](https://skills.thijs.gg)
 
 <!-- Learning Journey -->
 ## 🌱 I’m currently learning more about cloud computing technologies
@@ -32,7 +34,6 @@ In addition, I am also proficient in developing web applications and managing da
 - Open-source projects related to cloud computing and DevOps.
 - Web developing using both client and server frameworks
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Contact Information -->
 ## 📫 How to reach me...
