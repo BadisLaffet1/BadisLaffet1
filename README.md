@@ -1,4 +1,4 @@
-<!-- Your Name and Introduction -->
+![image](https://github.com/BadisLaffet1/BadisLaffet1/assets/125974896/aaded0f0-5c7e-4715-89f3-71524aa85dea)<!-- Your Name and Introduction -->
 # 👋 Hi, I’m Badis Laffet
 <!-- About Me -->
 I'm a cloud computing enthusiast with a good background in Kubernetes, Ansible, and Terraform. I am familiar with a wide range of cloud-related areas, including:
@@ -23,8 +23,8 @@ In addition, I am also proficient in developing web applications and managing da
 - Containers and Kubernetes
 - Automation and Scripting
 <!-- Skills -->
-
-[![My Skills](https://skills.thijs.gg/icons?i=python,django,ansible,kubernetes,aws,jenkins,js,html,css,wasm)](https://skills.thijs.gg)
+## ߷ Languages and tools
+[![My Skills](https://skills.thijs.gg/icons?i=python,docker,git,ansible,kubernetes,aws,jenkins,terraform,django,nextjs,spring,nodejs,react,angular,c,c++,c#,postgres,sql,phpmyadmin,js,html,css,wasm)](https://skills.thijs.gg)
 
 <!-- Learning Journey -->
 ## 🌱 I’m currently learning more about cloud computing technologies
