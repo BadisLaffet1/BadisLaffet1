@@ -24,8 +24,7 @@ In addition, I am also proficient in developing web applications and managing da
 - Automation and Scripting
 <!-- Skills -->
 ## ߷ Languages and tools
-[![My Skills](https://skills.thijs.gg/icons?i=python,docker,git,ansible,kubernetes,aws,azure,jenkins,terraform,django,nextjs,nodejs,react,angular,c,cs,cpp,postgres,sql,phpmyadmin,js,html,css,wasm)](https://skills.thijs.gg)
-
+[![My Skills](https://skillicons.dev/icons?i=python,docker,git,ansible,kubernetes,aws,azure,jenkins,terraform,django,nextjs,nodejs,react,angular,c,cs,cpp,postgres,sql,phpmyadmin,js,html,css,flutter&perline=3)](https://skillicons.dev)
 <!-- Learning Journey -->
 ## 🌱 I’m currently learning more about cloud computing technologies
 
