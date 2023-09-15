@@ -36,7 +36,7 @@ In addition, I am also proficient in developing web applications and managing da
 
 <!-- Contact Information -->
 ## 📫 How to reach me...
-- (https://www.linkedin.com/in/badis-laffet-239130283/)
+- Linkedin : https://www.linkedin.com/in/badis-laffet-239130283/
 - Email: badis.laffet1@gmail.com
 
 
