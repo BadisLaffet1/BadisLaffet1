@@ -6,12 +6,8 @@ I'm a cloud computing enthusiast with a good background in Kubernetes, Ansible, 
 - Exploring platform as a service (PaaS)
 - Implementing CI/CD pipelines
 - Virtualization technologies
-
-In addition, I am also proficient in developing web applications and managing databases. My technical skills span across various technologies and frameworks, including:
-
 - Backend development with .NET, Spring Boot, and Django
 - Frontend development with React and Angular
-- Database management including sql/nosql/postgres/phpmyadmin
 
 ## 👀 I’m interested in...
 - Cloud Infrastructure (AWS, Azure, GCP)
