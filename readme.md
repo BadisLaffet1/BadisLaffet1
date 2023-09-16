@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Badis Laffet
-I'm a cloud computing enthusiast with a good background in Kubernetes, Ansible, and Terraform. I am familiar with a wide range of cloud-related areas and web developing, including:
+I'm a cloud computing enthusiast , im looking forward to learn more about cloud-related areas and web developing, including:
 
 - Managing infrastructure as a service (IaaS)
 - Leveraging software as a service (SaaS)
