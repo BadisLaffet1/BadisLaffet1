@@ -1,14 +1,6 @@
 # 👋 Hi, I’m Badis Laffet
 I'm a cloud computing enthusiast , im looking forward to learn more about cloud-related areas and web developing, including:
 
-- Managing infrastructure as a service (IaaS)
-- Leveraging software as a service (SaaS)
-- Exploring platform as a service (PaaS)
-- Implementing CI/CD pipelines
-- Virtualization technologies
-- Backend development with .NET, Spring Boot, and Django
-- Frontend development with React and Angular
-
 ## 👀 I’m interested in...
 - Cloud Infrastructure (AWS, Azure, GCP)
 - DevOps and CI/CD
