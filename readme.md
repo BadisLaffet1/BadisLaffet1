@@ -6,7 +6,7 @@
 - Automation and Scripting
 
 ## ߷ Languages and tools
-[![My Skills](https://skillicons.dev/icons?i=python,docker,git,ansible,kubernetes,aws,azure,jenkins,django,nextjs,nodejs,react,angular,c,cs,cpp,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,docker,git,ansible,kubernetes,aws,azure,jenkins,django,nextjs,nodejs,react,angular,cs,cpp)](https://skillicons.dev)
 
 ## 💞️ Collaborating on : 
 - Open-source projects related to cloud computing and DevOps.
