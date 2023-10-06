@@ -10,7 +10,6 @@
 - Open-source projects related to cloud computing and DevOps.
 - Web developing using both client and server frameworks
 
-## 📫 How to reach me...
 - Linkedin : https://www.linkedin.com/in/badis-laffet-239130283/
 - Email: badis.laffet1@gmail.com
 
