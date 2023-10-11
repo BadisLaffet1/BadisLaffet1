@@ -1,5 +1,5 @@
 
-## ߷ Languages and tools
+## 👀 Languages and tools
 [![My Skills](https://skillicons.dev/icons?i=python,docker,git,ansible,kubernetes,aws,azure,jenkins,django,nextjs,nodejs,react,angular,cs,cpp)](https://skillicons.dev)
 
 ## 👀  Collaborating on : 
