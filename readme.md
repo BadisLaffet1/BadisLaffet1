@@ -1,6 +1,6 @@
 
 ## 💻 Technologies
-[![My Skills](https://skillicons.dev/icons?i=python,kubernetes,docker,ansible,openstack,aws,jenkins,django,nextjs,spring,nodejs,react,angular,java,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kubernetes,python,docker,ansible,aws,django,spring,js,java)](https://skillicons.dev)
 
 
 
